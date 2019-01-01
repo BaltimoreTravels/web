@@ -1376,11 +1376,26 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-rdDCwd9qaC {
-  background-image: url("../../../assets/images/bannerheader4-1080x920.png");
+.cid-rdT99wLqwB {
+  background: #faecc9;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
-.cid-rdDCwd9qaC .mbr-section-subtitle {
-  letter-spacing: .2rem;
+.cid-rdT99wLqwB .image-block {
+  margin: auto;
+}
+.cid-rdT99wLqwB figcaption {
+  position: relative;
+}
+.cid-rdT99wLqwB figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rdT99wLqwB .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rdDhXGelKo {
   padding-top: 90px;
