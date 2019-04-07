@@ -1830,3 +1830,24 @@ body {
   display: block;
   text-align: center;
 }
+.cid-rmZLg7gPGR {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rmZLg7gPGR .image-block {
+  margin: auto;
+}
+.cid-rmZLg7gPGR figcaption {
+  position: relative;
+}
+.cid-rmZLg7gPGR figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rmZLg7gPGR .image-block {
+    width: 100% !important;
+  }
+}
